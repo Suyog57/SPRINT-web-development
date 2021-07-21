@@ -1,7 +1,7 @@
 Suyog Vinod Chaudhari
 
-fixed #9
+fixed #5
 
-Removed the attribute target from img tags 
+Tried improving the footer 
 
 
